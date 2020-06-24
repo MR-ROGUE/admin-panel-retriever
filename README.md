@@ -12,7 +12,7 @@ git clone https://github.com/venkateshdudyala/admin-panel-retriever
 
 cd admin-panel-retrieve
 
-python2 admin.py
+python admin.py
 
 DONATE :
 
