@@ -14,8 +14,3 @@ cd admin-panel-retrieve
 
 python admin.py
 
-DONATE :
-
-   BTC : 1G9xzksbZWWjvewroNvvpoUMHz4WWgbm4S
-
-PAYPAL : paypal.me/venkeyrogue
