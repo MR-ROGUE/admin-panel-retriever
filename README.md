@@ -12,7 +12,7 @@ Developers assume no liability and are not responsible for any misuse or damage 
 
 Social media handle
 
-Instagram page: @cyber_king_of_internet
+Instagram page: @cyber.security.unlocked
 
 Facebook page : @venkey.rouge 
 
