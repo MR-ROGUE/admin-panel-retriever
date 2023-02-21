@@ -33,7 +33,7 @@ def Credit():
 	Space(9); print "#####################################"
 	Space(9); print "#   <<< Admin Panel retriever >>>   #"
 	Space(9); print "#        coded by MR.ROGUE          #"
-	Space(9); print "# instagram: cyber_king_of_internet #"
+	Space(9); print "# instagram:cyber.security.unlocked #"
 	Space(9); print "#####################################"
 
 Credit()
