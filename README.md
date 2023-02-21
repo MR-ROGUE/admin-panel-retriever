@@ -25,7 +25,7 @@ git clone https://github.com/venkateshdudyala/admin-panel-retriever
 
 cd admin-panel-retriever
 
-python panel.py
+python2 panel.py
 
 
 DONATE
